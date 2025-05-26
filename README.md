@@ -1,3 +1,3 @@
-# Hexagonal Architecture in Frontend course
+# Curso de Arquitectura Hexagonal en Frontend
 
-Code examples for [Hexagonal Architecture in Frontend course (in Spanish)](https://pro.codely.com/library/arquitectura-hexagonal-en-frontend-197663/483637/about/).
+Este repositorio contiene ejemplos de código para el [Curso de Arquitectura Hexagonal en Frontend (en español)](https://pro.codely.com/library/arquitectura-hexagonal-en-frontend-197663/483637/about/).
